@@ -1,9 +1,10 @@
 #include <iostream>
-#include "Windows.h"
+#include <Windows.h>
 
 using namespace std;
 
-int main() {
+int main()
+{
     SetConsoleOutputCP(CP_UTF8);
 
     return 0;
